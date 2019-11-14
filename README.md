@@ -1,4 +1,4 @@
-###Assignment 2 Makeup
+### Assignment 2 Makeup
 
 ### v0.1
 
@@ -73,5 +73,5 @@
 
 **This project includes some basic commands such as, "showled," "shownumber," "clearscreen," "onstart," and "showstring." It heavily relied on using the microbit inputs that are included in the device like the buttons, tilt, and facing options. I also used "playtone" commands to program the tuner portion. To set the metronome bpms I used the "setTempo" commands under the same category. I wanted to implement loops into the project too so I coupled that with the play tones to hear the note longer and save the user from having to perform the inputs over and over again.**
 
-# Final Project JS Link: [Cello Tuner/Metronome](https://github.com/csmit353/Cello-Tuner-Metronome-Code-File.git)
+* Final Project JS Link: [Cello Tuner/Metronome](https://github.com/csmit353/Cello-Tuner-Metronome-Code-File.git)
 
