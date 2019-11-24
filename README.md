@@ -43,7 +43,7 @@
 ### v0.9
 
 **This is such a helpful way to understand binary code better. This program allows you to input any binary code and then check to see the decimal equivilent whenever you want. I struggle with understanding binary and will definetly be using this.**
-* JS File: [Binary Transmogrifier](https://github.com/csmit353/Binary-Transmogrifier.git*)
+* JS File: [Binary Transmogrifier](v.09-BinaryTransmogrifier.js*)
 
 ### v0.10
 
