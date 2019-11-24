@@ -23,7 +23,7 @@
 ### v0.5 
 
 **I was always curious how the "game" section of MakeCode worked. Using loops and game logic, this lesson taught me how to get a sprite to travel across the led screen of the micro bit. It also gave an introduction to the music programming which I focused on for my midterm and final project.** 
-* JS file: [Loops Demo](https://github.com/csmit353/Loops-Demos.git*)
+* JS file: [Loops Demo](v.05-Loops.js*)
 
 ### v0.6
 
