@@ -3,7 +3,7 @@
 ### v0.1
 
 **The first happy/sad face assignment has to do with displaying two faces forever. The two faces will appear on the led screen on 5000ms intervals.** 
-* JS file: [HappySadFace](v.01-HappySadFace.js*)
+* JS file: [HappySadFace](v.01-HappySadFace.js).*
 
 ### v0.2
 
