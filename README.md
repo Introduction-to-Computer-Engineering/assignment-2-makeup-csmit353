@@ -53,7 +53,7 @@
 ### v0.11
 
 **Program micro bit to play headband charades (a.k.a. Heads Up) with this code. Give the micro bit a list of words to display and have it display a random one on the led screen using "array" code. I really like how you can use tilt inputs to mimic the smartphone app.**
-* JS File: [Heads Up](https://github.com/csmit353/Heads-Up.git*)
+* JS File: [Heads Up](v.11-HeadsUp.js*)
 
 ### v.012
 **This program is described in length below. This is a cello tuner and metronome. It plays the desired tone to tune a cello and plays two different tempos to get you in time to read an allegro or adagio music score.**
