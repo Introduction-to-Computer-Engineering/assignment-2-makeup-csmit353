@@ -3,12 +3,12 @@
 ### v0.1
 
 **The first happy/sad face assignment has to do with displaying two faces forever. The two faces will appear on the led screen on 5000ms intervals.** 
-* JS file: [HappySadFace](v.01-HappySadFace.js).*
+* JS file: [HappySadFace](v.01-HappySadFace.js*).
 
 ### v0.2
 
 **This assignment took the previous coding and gave it inputs. Instead of the faces appearing forever, the micro bit now displys them after either button "A" or "B" is pressed.**
-* JS file: [HappyFace/SadFace](https://github.com/csmit353/Happy-Sad-Face.git*)
+* JS file: [HappyFace/SadFace](v.02-HappySadFace.js*)
   
 ### v0.3
 
