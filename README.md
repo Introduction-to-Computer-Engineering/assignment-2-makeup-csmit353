@@ -57,7 +57,7 @@
 
 ### v.012
 **This program is described in length below. This is a cello tuner and metronome. It plays the desired tone to tune a cello and plays two different tempos to get you in time to read an allegro or adagio music score.**
-* JS File: [Cello Tuner/Metronome](https://github.com/csmit353/Cello-Tuner-Metronome-Code-File.git*)
+* JS File: [Cello Tuner/Metronome](v.12-CelloTunerMetronome.js*)
 
 # Midterm/Final Project
 
