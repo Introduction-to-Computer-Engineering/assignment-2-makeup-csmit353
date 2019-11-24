@@ -3,7 +3,7 @@
 ### v0.1
 
 **The first happy/sad face assignment has to do with displaying two faces forever. The two faces will appear on the led screen on 5000ms intervals.** 
-* JS file: [HappySadFace](v.01-HappySadFace.js*).
+* JS file: [HappySadFace](v.01-HappySadFace.js*)
 
 ### v0.2
 
@@ -28,7 +28,7 @@
 ### v0.6
 
 **For the mid-term I began exploring the music abilities of micro bit. I have four inputs assigned to four different notes to play. I also tried assigning the same notes to pins in an attempt to create a midi device. I also began exploring tuning ideas during this assignment.**
-* JS File: [Midterm](https://github.com/csmit353/MIDI-Midterm.git*)
+* JS File: [Midterm](v.06-MIDIMidterm.js*)
 
 ### v0.7
 
